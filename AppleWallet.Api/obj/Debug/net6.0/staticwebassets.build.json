@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x2dp4OvzfSQhzaVEhtLLbUZtHZPl6MGy6qQ+RiLesEw=",
+  "Source": "AppleWallet.Api",
+  "BasePath": "_content/AppleWallet.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

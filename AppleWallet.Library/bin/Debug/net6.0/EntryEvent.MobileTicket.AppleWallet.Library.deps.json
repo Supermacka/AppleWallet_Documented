@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EntryEvent.MobileTicket.AppleWallet.Library/1.0.0": {
+        "dependencies": {
+          "dotnet-passbook": "3.0.1"
+        },
+        "runtime": {
+          "EntryEvent.MobileTicket.AppleWallet.Library.dll": {}
+        }
+      },
+      "dotnet-passbook/3.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "System.Security.Cryptography.Pkcs": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Passbook.Generator.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "System.Security.Cryptography.Cng/4.5.0": {},
+      "System.Security.Cryptography.Pkcs/4.5.2": {
+        "dependencies": {
+          "System.Security.Cryptography.Cng": "4.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/System.Security.Cryptography.Pkcs.dll": {
+            "assemblyVersion": "4.0.3.2",
+            "fileVersion": "4.6.27129.4"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.1/System.Security.Cryptography.Pkcs.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.3.2",
+            "fileVersion": "4.6.27129.4"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntryEvent.MobileTicket.AppleWallet.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dotnet-passbook/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UbkPG87/G9U5ojU/4I+040JUou0WLWGAaAlhZt/CUkyr+r+SYbeHujaJbtpSNL6Upv8DL80lHgY7IatnvbLo9g==",
+      "path": "dotnet-passbook/3.0.1",
+      "hashPath": "dotnet-passbook.3.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Cng/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
+      "path": "system.security.cryptography.cng/4.5.0",
+      "hashPath": "system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Pkcs/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lIo52x0AAsZs8r1L58lPXaqN6PP51Z/XJts0kZtbZRNYcMguupxqRGjvc/GoqSKTbYa+aBwbkT4xoqQ7EsfN0A==",
+      "path": "system.security.cryptography.pkcs/4.5.2",
+      "hashPath": "system.security.cryptography.pkcs.4.5.2.nupkg.sha512"
+    }
+  }
+}

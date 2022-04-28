@@ -1,0 +1,15 @@
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/bin/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/bin/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.deps.json
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/bin/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.runtimeconfig.json
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/bin/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.dll
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/bin/Debug/net6.0/ref/EntryEvent.MobileTicket.AppleWallet.Console.dll
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/bin/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.pdb
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/obj/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.csproj.AssemblyReference.cache
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/obj/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/obj/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.AssemblyInfoInputs.cache
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/obj/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.AssemblyInfo.cs
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/obj/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.csproj.CoreCompileInputs.cache
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/obj/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.dll
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/obj/Debug/net6.0/ref/EntryEvent.MobileTicket.AppleWallet.Console.dll
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/obj/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.pdb
+/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Console/obj/Debug/net6.0/EntryEvent.MobileTicket.AppleWallet.Console.genruntimeconfig.cache

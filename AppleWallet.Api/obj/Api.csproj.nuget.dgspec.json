@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/Api/Api.csproj": {}
+  },
+  "projects": {
+    "/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/Api/Api.csproj",
+        "packagesPath": "/Users/colinfarkas/.nuget/packages/",
+        "outputPath": "/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/colinfarkas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Library/EntryEvent.MobileTicket.AppleWallet.Library.csproj": {
+                "projectPath": "/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Library/EntryEvent.MobileTicket.AppleWallet.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/colinfarkas/.dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Library/EntryEvent.MobileTicket.AppleWallet.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Library/EntryEvent.MobileTicket.AppleWallet.Library.csproj",
+        "projectName": "EntryEvent.MobileTicket.AppleWallet.Library",
+        "projectPath": "/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Library/EntryEvent.MobileTicket.AppleWallet.Library.csproj",
+        "packagesPath": "/Users/colinfarkas/.nuget/packages/",
+        "outputPath": "/Users/colinfarkas/RiderProjects/EntryEvent.MobileTicket.AppleWallet/EntryEvent.MobileTicket.AppleWallet.Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/colinfarkas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "dotnet-passbook": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/colinfarkas/.dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
