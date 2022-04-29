@@ -22,3 +22,15 @@
 /Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/refint/AppleWallet.Library.dll
 /Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/AppleWallet.Library.pdb
 /Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/ref/AppleWallet.Library.dll
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/bin/Debug/net6.0/AppleWallet.Library.deps.json
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/bin/Debug/net6.0/AppleWallet.Library.dll
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/bin/Debug/net6.0/AppleWallet.Library.pdb
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/AppleWallet.Library.csproj.AssemblyReference.cache
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/AppleWallet.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/AppleWallet.Library.AssemblyInfoInputs.cache
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/AppleWallet.Library.AssemblyInfo.cs
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/AppleWallet.Library.csproj.CoreCompileInputs.cache
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/AppleWallet.Library.dll
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/refint/AppleWallet.Library.dll
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/AppleWallet.Library.pdb
+/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/obj/Debug/net6.0/ref/AppleWallet.Library.dll

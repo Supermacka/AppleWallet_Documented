@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Api/AppleWallet.Api.csproj": {}
+    "/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Api/AppleWallet.Api.csproj": {}
   },
   "projects": {
-    "/Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Api/AppleWallet.Api.csproj": {
+    "/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Api/AppleWallet.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Api/AppleWallet.Api.csproj",
+        "projectUniqueName": "/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Api/AppleWallet.Api.csproj",
         "projectName": "AppleWallet.Api",
-        "projectPath": "/Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Api/AppleWallet.Api.csproj",
+        "projectPath": "/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Api/AppleWallet.Api.csproj",
         "packagesPath": "/Users/colinfarkas/.nuget/packages/",
-        "outputPath": "/Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Api/obj/",
+        "outputPath": "/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Api/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/colinfarkas/.nuget/NuGet/NuGet.Config"
         ],
@@ -26,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Library/AppleWallet.Library.csproj": {
-                "projectPath": "/Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Library/AppleWallet.Library.csproj"
+              "/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/AppleWallet.Library.csproj": {
+                "projectPath": "/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/AppleWallet.Library.csproj"
               }
             }
           }
@@ -65,19 +68,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Library/AppleWallet.Library.csproj": {
+    "/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/AppleWallet.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Library/AppleWallet.Library.csproj",
+        "projectUniqueName": "/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/AppleWallet.Library.csproj",
         "projectName": "AppleWallet.Library",
-        "projectPath": "/Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Library/AppleWallet.Library.csproj",
+        "projectPath": "/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/AppleWallet.Library.csproj",
         "packagesPath": "/Users/colinfarkas/.nuget/packages/",
-        "outputPath": "/Users/colinfarkas/Documents/GitHub/AppleWallet-Distributor/AppleWallet.Library/obj/",
+        "outputPath": "/Users/colinfarkas/AppleWallet-Distributor/AppleWallet.Library/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/colinfarkas/.nuget/NuGet/NuGet.Config"
         ],
@@ -127,7 +133,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
